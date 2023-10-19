@@ -1,10 +1,10 @@
 {
-  "name": "brayan-solutions",
+  "name": "catecismo",
   "version": "1.0.0",
   "description": "Un bot de Whatapp para evangelizar a las masas",
-  "main": "brayan-solutions.js",
+  "main": "catecismo.js",
   "scripts": {
-    "dev": "node brayan-solutions.js"
+    "dev": "node catecismo.js"
   },
   "type": "module",
   "author": "@marcodali",
@@ -12,7 +12,6 @@
   "private": true,
   "dependencies": {
     "@green-api/whatsapp-bot": "^0.2.5",
-    "dotenv": "^16.3.1",
-    "openai": "^4.12.1"
+    "dotenv": "^16.3.1"
   }
 }
